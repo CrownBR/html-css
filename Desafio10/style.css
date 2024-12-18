@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+body{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    
+}
+h1{
+    margin: 0%;
+}
+.historia{
+    text-align: center;
+    font-family: 'audiowide';
+    
+    
+}
+
+
+header{
+            
+    background-image: linear-gradient(to bottom, rgb(0 103 31), rgb(9 67 9));
+    color: white;
+    text-align: center;
+    
+}
+#menu{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    padding: 3px;
+    text-decoration: none;
+}
+nav > a{
+    margin-right: 19px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav > a:hover{
+    text-decoration: underline;
+
+}
+a{
+    color: rgba(255, 255, 255, 0.772);
+}
+main{
+    background-color: white;
+    padding: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: justify ;
+}
+.provavelmente{
+    text-indent: 50px;
+}
+
+h2{
+    text-align: center;
+}
+.versao{
+    font-family: 'audiowide';
+    background-image: linear-gradient(to right, #8be88d, #ffffff);
+    font-size: large;
+    
+    
+}
+main>div>img{
+    margin: 0%;
+    width: 90%;
+
+}
+p>mark.danmorril{
+    background-color: rgb(114, 238, 114);
+    font-family: 'audiowide';
+}
+p>mark>img{
+    width: 13px;
+}
+p>mark.Inkscape{
+    background-color: rgb(114, 238, 114);
+    font-family: 'audiowide';
+}
+p>mark.dandroids{
+    background-color: rgb(114, 238, 114);
+    font-family: 'audiowide';
+}
